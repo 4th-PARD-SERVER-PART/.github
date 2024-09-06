@@ -1,5 +1,5 @@
 <div align="center"> 
-  <h1>PARD 4기 🔥우뚝'SERVER'리다!!🔥</h1>
+  <h1>세상의 중심에 🔥우뚝'SERVER'리다!!🔥</h1>
   <div style={display:flex}>
     <img src="https://img.shields.io/badge/Springboot-6DB33F?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/>
